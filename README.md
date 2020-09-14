@@ -182,7 +182,7 @@ function showInterstitialFunc(){
 
 * Watch the video below to see a tutorial on how to install the Cordova Admob Plugin with Android Studio:
 
-[![Video](https://github.com/sunnycupertino/cordova-plugin-admob-simple/raw/master/docs/cordova-admob-plugin-video.jpg)](https://youtu.be/esHGZxmXOMg)
+[![Video](https://github.com/MrRobWad/cordova-plugin-admob-simple/raw/master/docs/cordova-admob-plugin-video.jpg)](https://youtu.be/esHGZxmXOMg)
 
 ## ECLIPSE NOTES
 
